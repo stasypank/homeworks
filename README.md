@@ -8,5 +8,5 @@ _homework_
 + вышка
 1. kill me
 1. First
-+A
-+B
+  +A
+  +B
