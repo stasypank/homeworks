@@ -11,4 +11,4 @@ _homework_
   + A
   + B
 
-[HSE] (http://www.hse.ru/)
+[HSE](http://www.hse.ru/)
